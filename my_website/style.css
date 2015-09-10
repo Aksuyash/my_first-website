@@ -1,0 +1,57 @@
+body {
+	background-color: #b0c4de;
+	margin:0;
+}
+.first{
+	
+	width: 97.5%;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 10px;
+}
+.second{
+	width: 97.5%;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 10px;
+	font-size:20px;
+}
+
+.third{
+	width: 97.5%;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 10px;
+	font-size:20px;
+}
+a:hover{
+	font-size:25px;
+}
+a:visited{
+	color:#CC00CC;
+}
+a{
+	font-size:20px;
+	font-family:italics;
+}
+.one{
+	font-family:"Times New Roman", Times, serif;
+	text-align:justify;
+	font-size:20px;
+}
+#nature1{
+	background-image: url('http://wellnesscounselingmilwaukee.com/wp-content/uploads/2015/07/4-Nature-Wallpapers-2014-1.jpg');
+	background-size: cover;
+	height: 500px;
+}
+#header-tag{
+	opacity: .7;
+}
+#nature2{
+	background-image: url('http://www.freedomwallpaper.com/nature-wallpaper/Nature-Wallpapers-6.jpg');
+	background-size: cover;
+	height:500px;
+}
+#mid-tag{
+	opacity: .7;
+}
